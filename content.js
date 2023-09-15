@@ -42,6 +42,7 @@ var PROMPT_TEMPLATE = '';
 
 document.addEventListener('DOMContentLoaded', function () {
     setInterval(function () { inject(); }, 1000);
+
     sync();
 });
 
