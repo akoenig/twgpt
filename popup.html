@@ -1,0 +1,58 @@
+<!--
+/*
+TwGPT 1.0
+Copyright (C) 2023 Naveed ur Rehman
+*** Read the license.txt file ***
+twitter.com/@getorhack | naveedurrehman.com
+*/
+-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>TwGPT</title>
+
+    <script type="text/javascript" src="popup.js"></script>
+
+</head>
+
+<style>
+    #apikey {
+        display: block;
+        width: 100%;
+    }
+
+    #prompt {
+        display: block;
+        width: 100%;
+        height: 100px;
+    }
+
+    #btnsave {
+        display: block;
+        width: 100%;
+        background: #1D9BF0;
+        color: #fff;
+        padding: 5px;
+        margin-top: 5px;
+        border: 1px solid #fff;
+        border-radius: 5px 5px 5px 5px;
+    }
+</style>
+
+<body>
+    <div style="width: 400px; padding: 20px;padding-top: 10px;">
+        <div>
+            <h1>Welcome to TwGPT!</h1>
+            <p>OpenAI API key:</p>
+            <input type="text" placeholder="sk-..." value="" id="apikey" />
+            <p>Prompt:</p>
+            <textarea id="prompt"></textarea>
+            <button id="btnsave">Save</button>
+        </div>
+        <br />
+        <div>By <a href="https://twitter.com/intent/follow?screen_name=getorhack" target="_blank">@getorhack</a></div>
+</body>
+
+</html>

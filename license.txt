@@ -1,0 +1,10 @@
+TwGPT 1.0
+Copyright (C) 2023 Naveed ur Rehman
+
+License:
+- This license is intended for single-user use only.
+- You are permitted to modify and adapt the codes.
+- You are prohibited from distributing or redistributing the original, modified, or adapted code.
+- Commercial use of the work is not allowed.
+
+twitter.com/@getorhack | naveedurrehman.com

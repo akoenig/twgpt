@@ -1,0 +1,22 @@
+/*
+TwGPT 1.0
+Copyright (C) 2023 Naveed ur Rehman
+*** Read the license.txt file ***
+twitter.com/@getorhack | naveedurrehman.com
+*/
+
+.inject_select {
+    display: block;
+    padding: 5px;
+    margin: 1px;
+    color: black;
+    background: #fff;
+    border: 3px solid #1D9BF0;
+    border-radius: 5px 5px 5px 5px;
+    height: 40px;
+    width: 100%;
+}
+
+.inject_disabled {
+    background: #ababab;
+}
